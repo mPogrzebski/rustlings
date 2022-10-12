@@ -1587,6 +1587,42 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "cj81499",
+      "name": "Cal Jacobson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9152032?v=4",
+      "profile": "http://caljacobson.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "duchonic",
+      "name": "Duchoud Nicolas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34117620?v=4",
+      "profile": "https://github.com/duchonic",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gfaugere",
+      "name": "Gaëtan Faugère",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11901979?v=4",
+      "profile": "https://github.com/gfaugere",
+      "contributions": [
+        "tool"
+      ]
+    },
+    {
+      "login": "bhbuehler",
+      "name": "bhbuehler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25541343?v=4",
+      "profile": "https://github.com/bhbuehler",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
